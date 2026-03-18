@@ -123,7 +123,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>/QJH9wmIN7WDIj0tGOBlAwH8eBXVA20BP/csVh+fBQM=</dsig:DigestValue>
+      <dsig:DigestValue>ajcvFI2SaQRWdrWzsWz5TZNRXgPhaigfrco+3UyOq70=</dsig:DigestValue>
     </hash>
   </file>
   <file name="RealReport.dll" size="94208">
@@ -132,7 +132,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>3M+/XQsYFgdd3rlNenWcbRAq5N8/IqHAZZH7lFRWAbA=</dsig:DigestValue>
+      <dsig:DigestValue>IKKHYE9r/hPZgMA/L1KTJAGXb/oG4h76PDprTmPWKMI=</dsig:DigestValue>
     </hash>
   </file>
   <file name="RealReport.exe" size="163328">
@@ -141,7 +141,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>WmS9JSaSK1nALQ6hFZHF9Qc3NdcjTe3g5LWwvYhmK88=</dsig:DigestValue>
+      <dsig:DigestValue>R/nbZWNb3Cm2Elvz7hyom4cxAj+wT6wCJfsM2+64EiU=</dsig:DigestValue>
     </hash>
   </file>
   <file name="RealReport.runtimeconfig.json" size="429">
